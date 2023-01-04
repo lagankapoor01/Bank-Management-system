@@ -1,12 +1,3 @@
-/*	===========================================
-		Bank Record System - Mini Project	
-  		By: Shivam Gupta       Garima Garg
-    		  Sec : A            Sec: A     
-			Roll No . 60      Roll No. 41
-		Graphic Era(Deemed To BE University)
-	===========================================*/
-
-
 #include <iostream>
 #include <fstream>
 #include <cstring>
